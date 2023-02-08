@@ -1,5 +1,10 @@
 # Form Validation
 This project is a simple form validation application that includes register and login forms, using JavaScript and Tailwind CSS framework. The user data is stored in the local storage of the browser
+# Templete
+- login page
+![Capture d’écran 2023-02-08 140743](https://user-images.githubusercontent.com/96472794/217549768-46148348-c74b-4887-a855-3d59e1f2c032.png)
+- register page
+![Capture d’écran 2023-02-08 140727](https://user-images.githubusercontent.com/96472794/217549967-d4926b8d-4b3a-45b9-b000-8c9f3d5263de.png)
 ## Features
 - The forms are built using HTML and CSS to provide a  user-friendly interface with i nice transformation in sliders.
 - The form validation is done using JavaScript, which checks if all the fields are filled and ensures that the information entered is in the correct format.
