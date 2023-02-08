@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .flex-dev {
+      @apply flex flex-col 
+    }
+    .label-dev {
+        @apply tracking-wide text-[#596a73] text-xs font-bold mb-2
+    }
+    .inp {
+        @apply bg-[#f3f7f9] outline-none pl-2 py-2  border rounded shadow-sm focus:shadow
+    }
+  }
