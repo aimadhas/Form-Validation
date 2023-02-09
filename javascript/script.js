@@ -1,8 +1,8 @@
-let alldiv = document.querySelectorAll(".backg")
-let allpoint = document.querySelectorAll(".point")
-let icons = document.querySelectorAll(".bxs-error-circle")
-let vision = document.querySelectorAll(".fa-solid")
-let alertMessage = document.querySelectorAll(".alert")
+const alldiv = document.querySelectorAll(".backg")
+const allpoint = document.querySelectorAll(".point")
+const icons = document.querySelectorAll(".bxs-error-circle")
+const vision = document.querySelectorAll(".fa-solid")
+const alertMessage = document.querySelectorAll(".alert")
 let i = 0
 let intervalId;
 function startInterval() {
