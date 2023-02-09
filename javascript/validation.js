@@ -1,5 +1,5 @@
-let form1 = document.querySelector(".form1")
-let form2 = document.querySelector(".form2")
+const form1 = document.querySelector(".form1")
+const form2 = document.querySelector(".form2")
 let ALLaccounts = [];
 // creat class of user account
 class users {
